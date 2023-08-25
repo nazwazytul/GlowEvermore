@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:wght@700&family=Karla&family=Poppins&display=swap');
+
+.font-poppins {
+  font-family: 'Poppins', sans-serif;
+}
+
+.font-cormorant {
+    font-family: 'Cormorant', serif;
+}
+
+.bg-purple1 {
+    background-color: #E0C3B6;
+}
+
+.bg-purple2 {
+    background-color: #FEFBF2;
+}
+
+.bg-purple3 {
+    background-color: #BBA298;
+}
+
+.shadow-purple{
+    shadow-color: #BBA298;
+}
+
+.center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #purple1; 
+    position: relative;
+  }
+
+.list {
+    list-style-type: disc;
+}
+
